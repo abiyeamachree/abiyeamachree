@@ -1,7 +1,7 @@
 ### Hi, I'm Abiye 👋
 
-- 🇬🇧 I'm a student @ University of Manchester & intern @ Ernst & Young
-- 🔭 Right now, I'm creating a 3D webpage with React, TypeScript and Three.js, featuring LLM-enabled applications.
+- 🇬🇧 I'm a student @ University of Manchester & AI intern @ Ernst & Young
+- 🔭 Right now, I'm creating a 3D webpage with React, TypeScript and Three.js, with LLM-enabled features.
 - 👯 I’m looking to collaborate on blockchain dApps with real-world utility.
 
 <!--
