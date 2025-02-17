@@ -6,7 +6,7 @@
 ## 👾 tech stack
 
 ### frontend
-- **typeScript**
+- **typescript**
 - **react**
 - **next.js**
 - **three.js**
