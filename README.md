@@ -1,20 +1,17 @@
-### Hi, I'm Abiye 👋
+### hi, i'm abiye 👋
 
-- 🇬🇧 I'm a student @ University of Manchester & Software Architect @ ayv.black
-- 🔭 Right now, I'm creating a 3D webpage with React, TypeScript and Three.js, with LLM-enabled features.
-- 👯 I’m looking to collaborate on blockchain dApps with real-world utility.
+- 🇬🇧 i'm a **student** @ **university of manchester** & **software architect** @ **ayv.black**
+- ♠️ right now, I'm creating a **3D webpage with react**, **typeScript** and **three.js**, with **llm-enabled** features..
 
-<!--
-**abiyeamachree/abiyeamachree** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 💻 tech stack
 
-Here are some ideas to get you started:
+### frontend
+- **typeScript**
+- **react**
+- **next.js**
+- **three.js**
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### backend
+- **python**
+- **node.js**
+- **MongoDB**
