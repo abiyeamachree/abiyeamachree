@@ -14,4 +14,4 @@
 ### backend
 - **python**
 - **node.js**
-- **MongoDB**
+- **mongoDB**
